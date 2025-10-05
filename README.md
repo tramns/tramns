@@ -30,18 +30,10 @@
 **DB/Infra:** MongoDB, Vercel  
 **Tools:** Git, GitHub, Figma, Postman
 
----
-
-
-## 📊 GitHub Stats
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=<your_username>&show_icons=true&hide_title=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=<your_username>&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
 
 ---
 
 ## 🤝 Contact
 - Email: tramns2004@gmial.com
-- LinkedIn:[ <your_linkedin_url>](https://www.linkedin.com/in/ngoctramnguyenthi/)  
+- LinkedIn:(https://www.linkedin.com/in/ngoctramnguyenthi/)  
 - Portfolio: https://my-portfolio-phi-ten-79.vercel.app/
