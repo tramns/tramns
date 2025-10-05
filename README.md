@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Nguyễn Thị Ngọc Trâm (Trâm) 👋</h1>
+<h1 align="center">Hi, I'm Nguyễn Thị Ngọc Trâm 👋</h1>
 <p align="center">
   CS @ UIT · Full-stack Builder · Based in Viet Nam
 </p>
@@ -34,6 +34,6 @@
 ---
 
 ## 🤝 Contact
-- Email: tramns2004@gmial.com
-- LinkedIn:(https://www.linkedin.com/in/ngoctramnguyenthi/)  
+- Email: tramns2004@gmail.com
+- LinkedIn:https://www.linkedin.com/in/ngoctramnguyenthi/
 - Portfolio: https://my-portfolio-phi-ten-79.vercel.app/
