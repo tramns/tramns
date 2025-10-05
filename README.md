@@ -12,18 +12,11 @@
   <a href="<your_portfolio_url>"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-success"></a>
 </p>
 
----
-
-## 🧭 About me
-- I build end-to-end products from **data** to **UI**.
-- Research interests: **high-dimensional regression**, **transfer learning**, **selective inference**.
-- Product interests: **SmartCities**, **multimodal retrieval**, **ed-tech**.
-- Currently learning: **clean architecture**, **CI/CD**, **SDLC best practices**.
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, JavaScript/TypeScript, C++,...
+**Languages:** Python, JavaScript/TypeScript, C++
 **Frontend:** React (Vite), HTML/CSS, Tailwind  
 **Backend:** Node.js/Express, REST, JWT  
 **Data/ML:** scikit-learn, PyTorch, `skglm`, Pandas, NumPy  
